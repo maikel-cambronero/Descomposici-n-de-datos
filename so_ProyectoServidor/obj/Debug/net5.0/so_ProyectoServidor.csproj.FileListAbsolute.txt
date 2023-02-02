@@ -1,0 +1,16 @@
+D:\OneDrive - Universidad Latina\U La Tina\6° Cuatrimestre\Sistemas Operativos\Proyecto Final\so_ProyectoServidor\bin\Debug\net5.0\so_ProyectoServidor.exe
+D:\OneDrive - Universidad Latina\U La Tina\6° Cuatrimestre\Sistemas Operativos\Proyecto Final\so_ProyectoServidor\bin\Debug\net5.0\so_ProyectoServidor.deps.json
+D:\OneDrive - Universidad Latina\U La Tina\6° Cuatrimestre\Sistemas Operativos\Proyecto Final\so_ProyectoServidor\bin\Debug\net5.0\so_ProyectoServidor.runtimeconfig.json
+D:\OneDrive - Universidad Latina\U La Tina\6° Cuatrimestre\Sistemas Operativos\Proyecto Final\so_ProyectoServidor\bin\Debug\net5.0\so_ProyectoServidor.runtimeconfig.dev.json
+D:\OneDrive - Universidad Latina\U La Tina\6° Cuatrimestre\Sistemas Operativos\Proyecto Final\so_ProyectoServidor\bin\Debug\net5.0\so_ProyectoServidor.dll
+D:\OneDrive - Universidad Latina\U La Tina\6° Cuatrimestre\Sistemas Operativos\Proyecto Final\so_ProyectoServidor\bin\Debug\net5.0\so_ProyectoServidor.pdb
+D:\OneDrive - Universidad Latina\U La Tina\6° Cuatrimestre\Sistemas Operativos\Proyecto Final\so_ProyectoServidor\obj\Debug\net5.0\so_ProyectoServidor.csproj.AssemblyReference.cache
+D:\OneDrive - Universidad Latina\U La Tina\6° Cuatrimestre\Sistemas Operativos\Proyecto Final\so_ProyectoServidor\obj\Debug\net5.0\so_ProyectoServidor.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Universidad Latina\U La Tina\6° Cuatrimestre\Sistemas Operativos\Proyecto Final\so_ProyectoServidor\obj\Debug\net5.0\so_ProyectoServidor.AssemblyInfoInputs.cache
+D:\OneDrive - Universidad Latina\U La Tina\6° Cuatrimestre\Sistemas Operativos\Proyecto Final\so_ProyectoServidor\obj\Debug\net5.0\so_ProyectoServidor.AssemblyInfo.cs
+D:\OneDrive - Universidad Latina\U La Tina\6° Cuatrimestre\Sistemas Operativos\Proyecto Final\so_ProyectoServidor\obj\Debug\net5.0\so_ProyectoServidor.csproj.CoreCompileInputs.cache
+D:\OneDrive - Universidad Latina\U La Tina\6° Cuatrimestre\Sistemas Operativos\Proyecto Final\so_ProyectoServidor\obj\Debug\net5.0\so_ProyectoServidor.dll
+D:\OneDrive - Universidad Latina\U La Tina\6° Cuatrimestre\Sistemas Operativos\Proyecto Final\so_ProyectoServidor\obj\Debug\net5.0\refint\so_ProyectoServidor.dll
+D:\OneDrive - Universidad Latina\U La Tina\6° Cuatrimestre\Sistemas Operativos\Proyecto Final\so_ProyectoServidor\obj\Debug\net5.0\so_ProyectoServidor.pdb
+D:\OneDrive - Universidad Latina\U La Tina\6° Cuatrimestre\Sistemas Operativos\Proyecto Final\so_ProyectoServidor\obj\Debug\net5.0\so_ProyectoServidor.genruntimeconfig.cache
+D:\OneDrive - Universidad Latina\U La Tina\6° Cuatrimestre\Sistemas Operativos\Proyecto Final\so_ProyectoServidor\obj\Debug\net5.0\ref\so_ProyectoServidor.dll
